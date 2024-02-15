@@ -1,0 +1,31 @@
+div {
+    border : solid 1px red;
+    margin :20px;
+    background-color: yellow;
+}
+
+span {
+    background-color: orange;
+    border : solid 1px white;
+
+}
+
+.s1 {
+    display: inline;
+    width : 200px; height:200px
+}
+
+.s2 {
+    display: block;
+    width : 200px; height:200px
+}
+
+.s3 {
+    display: inline-block;
+    width : 200px; height:200px
+}
+
+.s4 {
+    display: none;
+    width : 200px; height:200px
+}

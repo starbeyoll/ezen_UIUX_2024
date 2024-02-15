@@ -1,0 +1,12 @@
+* { color:red; }
+h1 { color:blue; }
+.box1 { color:green; }
+.box2 { background-color: pink; }
+
+#box3 { color: brown; }
+#box4 { background-color: beige; }
+
+#box5 div { color:aqua; }
+#box5 > div { color:yellow; }
+
+#box5 , #box6 { background-color: black; }

@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'TTHakgyoansimKossuyeomR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimKossuyeomR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* { 
+    padding : 0px; 
+    margin : 0px;
+}
+
+body {
+    background-color: pink;
+    font-family: 'TTHakgyoansimKossuyeomR';
+}
+
+h3 {
+    font-size: 20px;
+    text-align : center;
+    border : 3px solid white;
+    border-radius: 30px;
+    width :300px;
+    margin : 30px auto;  
+    padding : 10px;
+}
+
+p , ul {
+    text-align: center;
+    margin : 20px;
+}
+
+p > img {
+    border-radius: 50%;
+}
+
+a {
+    display :block;
+    background-color: black;
+    padding : 20px 0;
+    color : white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul {
+    width : 300px;
+    margin :0 auto;
+}
+
+li {
+    margin-bottom : 30px;
+    list-style-type: none;
+}
