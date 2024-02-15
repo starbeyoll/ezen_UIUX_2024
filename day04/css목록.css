@@ -1,0 +1,14 @@
+li {
+    list-style-type: disc;
+    list-style-type: square;
+    list-style-type: decimal;
+    list-style-type: lower-roman;
+    list-style-type: upper-roman;
+    list-style-type: lower-alpha;
+    list-style-type: upper-alpha;
+    list-style-type: none;
+
+    /*list-style-image: url("이미지파일");*/
+
+    list-style-position: inside;
+}

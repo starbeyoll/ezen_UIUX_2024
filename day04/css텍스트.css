@@ -1,0 +1,44 @@
+h3 { font-family: "바탕체";}
+@font-face {
+    font-family: 'TTHakgyoansimMonggeulmonggeulR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimMonggeulmonggeulR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h4 {font-family:'TTHakgyoansimMonggeulmonggeulR';}
+
+p { font-size:12px ;}
+
+.teacher_name { 
+    font-size:20px ;
+    font-weight: bold ;
+    font-weight: lighter ;
+    font-weight : bolder ;
+    font-weight : 900;
+
+    font-style: italic;
+
+    /*direction: ltr;*/
+
+    text-align: left;
+
+    text-indent: -20px;
+    
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: none;
+
+    letter-spacing: 5px;
+    word-spacing: 12px;
+
+    line-height: 180%;
+
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: overline;
+    text-decoration: none;
+
+    
+}

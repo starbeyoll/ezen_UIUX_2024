@@ -1,0 +1,10 @@
+p {
+     border:3px red solid;
+     padding: 50px;
+     margin:100px;
+
+     width :300px;
+
+     box-sizing: border-box;
+     box-sizing: content-box; /* 기본값_총길이: 300+(50x2)+(3x2)=*/
+}
