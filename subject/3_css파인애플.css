@@ -1,0 +1,26 @@
+body {
+    margin : 20px;   
+}
+
+div {
+    border : 1px solid rgb(227, 227, 227);
+    width : 580px;
+    padding : 15px;
+}
+
+
+.product {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top : -18px;
+}
+
+div p span {
+    color : orange;
+    font-weight: bold;
+}

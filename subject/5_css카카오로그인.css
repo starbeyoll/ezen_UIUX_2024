@@ -1,0 +1,54 @@
+
+
+div {
+    border : 1px solid rgb(224, 224, 224);
+    width : 500px;
+    padding : 50px;
+    margin : 0 auto;
+}
+
+p {
+    text-align: center;
+}
+
+div input {
+    margin : 15px auto;
+    border-width: 0 0 1px;
+    outline : none;
+}
+
+.btnY {
+    background-color: rgb(255, 226, 4);
+    width : 500px;
+    height : 40px;
+    border-radius: 5px;
+
+}
+
+.btnG {
+    background-color: rgb(224, 224, 224);
+    width : 500px;
+    height : 40px;
+    border-radius: 5px;
+}
+
+.part {
+    color : rgb(229, 229, 229);
+    font-size : 10px
+}
+
+.textR {
+    text-align : right;
+    font-size : 13px;
+}
+
+ul {
+    text-align : center;
+}
+
+ul li {
+    display :inline-block;
+    list-style-type: none;
+    font-size : 13px;
+    margin : 7px;
+}

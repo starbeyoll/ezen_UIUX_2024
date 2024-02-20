@@ -1,0 +1,22 @@
+.list {
+    font-size: 30px;
+    font-weight: 800;
+    color : rgb(255, 145, 61);
+}
+
+div p {
+    font-weight: bold;
+}
+
+ul li {
+    list-style-type: none;
+    color : white;
+}
+
+div ul {
+    margin : 5px;
+    padding : 20px;
+    background-color: rgb(14, 117, 135);
+    width : 100%
+
+}

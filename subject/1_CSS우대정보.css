@@ -1,0 +1,37 @@
+.greenB {
+    list-style-image: url(Quiz1_B.png);
+}
+
+.Mtext {
+    margin : 10px 0 0 -25px;
+    font-size: 22px;
+    font-weight : bold;
+}
+.box1 {
+    margin : 30px 0 30px;
+    padding : 20px 0 30px;
+    border : 3px solid rgb(148, 148, 148) ;
+    border-radius: 20px;
+    width : 500px;
+    height : 250px;
+    background-color: rgb(240, 240, 240);
+}
+
+.box2 {
+    margin : 30px 100px; 30px;
+    padding : 20px;
+    border : 3px solid rgb(148, 148, 148) ;
+    border-radius: 20px;
+    width : 300px;
+    height : 200px;
+    background-color: white;
+}
+
+.bdDot {
+    border : 1px dotted gray;
+}
+
+.textR {
+    font-weight: bold;
+    text-align : right;
+}

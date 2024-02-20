@@ -1,0 +1,30 @@
+div {
+    border : 1px solid rgb(202, 202, 202);
+    padding : 30px;
+    margin : 10px auto;
+    text-align : center;
+}
+
+div p {
+    text-align : center;
+}
+
+div p input {
+    margin : 5px
+}
+
+.logIn {
+    background-color: rgb(33, 188, 255);
+    color : white;
+    width : 300px;
+    height: 30px;
+    border-radius: 10px;
+    margin : 0 auto;
+    padding : 5px;
+}
+
+.faceLogin {
+    color : rgb(43, 43, 96);
+    font-weight: bold;
+    font-size: 15px;
+}
