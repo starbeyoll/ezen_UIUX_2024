@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <script>
+
+        console.log( 3+5 );
+        document.write(3+5); document.write("<hr/>");
+        document.write(3-5); document.write("<hr/>");
+        document.write(3*5); document.write("<hr/>");
+        document.write(3/5); document.write("<hr/>");
+        document.write(3%5); document.write("<hr/>");
+        document.write('<h1>'+'JS입력한HTML'+'</h1>');
+        document.write('<p>' + 93 + '</p>');
+
+
+        let 정수1 = 3;
+        let 정수2 = 5;
+
+        document.write(정수1+정수2);
+
+
+        let 입력받은데이터 = prompt('정수 입력해주세요.');
+        document.write(입력받은데이터);
+
+        // 2개의 데이터를 입력받고 HTML <p>태그 형식으로 곱하기한 결과를 출력하시오.
+
+        let 값1 = prompt ('값1 :');
+        let 값2 = prompt ('값2 :');
+        let 곱하기결과 = 값1*값2
+
+        document.write('<p> 곱하기결과 :'+ 곱하기결과 +'<p>');
+
+        // 3개의 데이터를 입력받고 HTML <ol>태그 형식으로 <li> 형식으로 출력하시오.
+
+        let 데이터1 = prompt ('데이터1 :');
+        let 데이터2 = prompt ('데이터2 :');
+        let 데이터3 = prompt ('데이터3 :');
+
+        document.write('<ol>');
+                document.write('<li>'+데이터1+'</li>');
+                document.write('<li>'+데이터2+'</li>');
+                document.write('<li>'+데이터3+'</li>');
+        document.write('</ol>');
+    
+    </script>
+    
+
+
+</body>
+</html>
